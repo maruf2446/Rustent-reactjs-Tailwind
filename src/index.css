@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* @layer base{
+  @apply border border-black rounded-xl px-5 py-2
+} */
